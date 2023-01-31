@@ -1,0 +1,6 @@
+public class GenericsLearningApplication {
+
+    public static void main(String[] args) {
+
+    }
+}
